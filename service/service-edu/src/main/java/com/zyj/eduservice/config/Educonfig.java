@@ -24,4 +24,6 @@ public class Educonfig {
     public ISqlInjector sqlInjector(){
         return new LogicSqlInjector();
     }
+
+
 }

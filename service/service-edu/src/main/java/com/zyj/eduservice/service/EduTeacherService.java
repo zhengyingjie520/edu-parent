@@ -2,7 +2,6 @@ package com.zyj.eduservice.service;
 
 import com.zyj.eduservice.entity.EduTeacher;
 import com.baomidou.mybatisplus.extension.service.IService;
-import org.springframework.stereotype.Service;
 
 /**
  * <p>

@@ -1,4 +1,4 @@
-package src.test.java.com.zyj.eduservice;
+package com.zyj.eduservice;
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.generator.AutoGenerator;
